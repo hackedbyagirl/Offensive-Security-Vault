@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5f704145c2521e7",
+        "id": "6af126196319715f",
         "type": "tabs",
         "children": [
           {
-            "id": "e48b1e69613d76d5",
+            "id": "eeba3cd71248f10c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,17 +137,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e48b1e69613d76d5",
+  "active": "eeba3cd71248f10c",
   "lastOpenFiles": [
+    "04 - Templates/0400 - General Template.md",
+    "04 - Templates/04 - Template Structure/0409 - Resources.md",
+    "04 - Templates/04 - Template Structure/0408 - Personal.md",
+    "04 - Templates/04 - Template Structure/0407 - README.md",
+    "04 - Templates/04 - Template Structure/0406 - Tool.md",
+    "04 - Templates/04 - Template Structure/0405 - Basic.md",
+    "04 - Templates/04 - Template Structure/0404 - Metadata.md",
+    "04 - Templates/04 - Template Structure/0403 - Content Header.md",
     "03 - Content/Obsidian - Git.md",
-    "03 - Content/Templater.md",
-    "03 - Content/Obsidian - Getting Started.md",
-    "03 - Content/Obsidian General Settings.md",
-    "04 - Templates/04 - Template Structure/0408 - Resources.md",
-    "03 - Content/Obsidian Plugins.md",
-    "02 - Secondary Categories/02 - Obsidian.md",
-    "06 - Images/file-settings.png",
-    "06 - Images/templater.png",
-    "04 - Templates/04 - Template Structure/0404 - Metadata.md"
+    "03 - Content/Templater.md"
   ]
 }
