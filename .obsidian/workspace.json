@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "803bd50cd286d021",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5f704145c2521e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e48b1e69613d76d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04d883b20fab1a98",
+    "type": "split",
+    "children": [
+      {
+        "id": "f33f3ef271ad5d49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d408fb73f29c8a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa1d091155953a4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d1acb0eb372732e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9584ff9768d1b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "37cd0c8962be4e03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f77bb93be0a2f87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99eb5a42c8b91aff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "377373a2378ff61d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bca36c24ff7bf40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e48b1e69613d76d5",
+  "lastOpenFiles": [
+    "03 - Content/Obsidian - Git.md",
+    "03 - Content/Templater.md",
+    "03 - Content/Obsidian - Getting Started.md",
+    "03 - Content/Obsidian General Settings.md",
+    "04 - Templates/04 - Template Structure/0408 - Resources.md",
+    "03 - Content/Obsidian Plugins.md",
+    "02 - Secondary Categories/02 - Obsidian.md",
+    "06 - Images/file-settings.png",
+    "06 - Images/templater.png",
+    "04 - Templates/04 - Template Structure/0404 - Metadata.md"
+  ]
+}
